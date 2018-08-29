@@ -1,0 +1,7 @@
+classifier*
+checkpoint
+*Copy*
+__pycache__
+data
+testing
+imgs
